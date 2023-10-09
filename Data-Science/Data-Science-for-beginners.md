@@ -1,6 +1,8 @@
 # Data Science for Newbies: A Beginner friendly tutorial
 By  VANSHIKA NAGARAJAN
 
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/a5eef29c-cbf1-4589-a5e5-943bffcf43cf)
+
 ## So what’s Data Science?
 
 But, I guess one question comes prior to whats’s data science that is **WHAT’S DATA**?
@@ -39,6 +41,9 @@ So data turns into INFORMATION with respect to your needs and interests.
 
 5. Big data is a large set having complex structure. It is usually difficult to deal with the data out here with the traditional process.
 
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/af074ea0-fbe9-4511-affa-c039cb7ce7b0)
+
+
 ## Applications of Data Science!
 
 Use of Data Science could be in two ways. In product based and in service based. Product based refers to launching tangible technology, where they try to deliver their product to the costumers, whereas service based refers to intangible services that is they do not have any product to market, but their primary business is to provide service.
@@ -53,6 +58,8 @@ Some of the examples of a product-based and service based Companies:
 
 Social Media, Medical field, Sports, Search Engines, Restaurants, Airlines.
 
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/92ded075-3020-4c15-be20-9ae00c9e8d66)
+
 **Data collection** — Retrieving data from the resources. Resources could be any database, API’s, surveys, sensor data.
 
 **Data preprocessing** — This means, preparing the data for data analysis. This includes data cleaning, finding the missing values, altering the data, normalising the data, encoding variable to numeric numbers, and to deal with outliers.
@@ -60,6 +67,9 @@ Social Media, Medical field, Sports, Search Engines, Restaurants, Airlines.
 **Data analysis** — To find the statistical value of the data i.e; mean, mode, median. Also, plotting the historical plot, box plot and scatter plots.
 
 **Data visualisation** — This includes bar charts, line plots, heat maps.
+
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/bfaf692e-015e-40ee-a8d3-0a45f530282a)
+
 
 There are many data types, but I am keeping it till the beginner needs. So there are two which one should know when they are starting with data science, that is categorical data and numerical data. Categorical data is further divided into Nominal data and Ordinal data.
 
@@ -93,4 +103,27 @@ Just like that! For a better result Data preprocessing and Data cleaning is very
 
 **LANGUAGES USED:**
 
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/60704148-6b97-433a-ae12-aa1aaa12260b)
+
+
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/ef969371-19d8-42e9-8114-a49cae116a0f)
+
+
 **PYTHON** is widely used in Data Science as it already has many data science libraries imported which makes the user to easily code, and decreases the time complexity.
+
+**BECAUSE DATA SCIENTISTS VALUE THEIR TIME THE MOST, PLAYING WITH THE DATA IS MORE IMPORTANT !!**
+
+Secondly, **R** is used for this domain because it has static graphics that produce good quality of data visualisation.
+
+**PLATFORMS TO IMPLEMENT:** Jupyter Notebook, PyCharm, VsCode
+
+**MOST USED LIBRARIES:**
+
+![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/b157ffa1-a92a-476c-9962-19730094a203)
+
+
+pandas, matplotlib, numpy, seaborn[beginner level]
+
+scikit-learn, scipy, pytorch [intermmediate]
+
+keras, tensorflow, OpenCV and there are many more.
