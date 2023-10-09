@@ -1,5 +1,5 @@
 ## Unlocking Possibilities: The No-Code and Low-Code Impact on Education and Beyond
-~ By Muhasif Hafiz
+~ By [Muhasif Hafiz](https://www.linkedin.com/in/muhasifhafiz)
 
 ![image](https://github.com/gdscjh/GDSC-Blogs/assets/68806440/5ac25152-8595-4e06-9eb2-92f16b1d007c)
 
