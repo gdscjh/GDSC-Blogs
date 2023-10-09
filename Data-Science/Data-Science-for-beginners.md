@@ -1,5 +1,5 @@
 # Data Science for Newbies: A Beginner friendly tutorial
-By  VANSHIKA NAGARAJAN
+By  [VANSHIKA NAGARAJAN](https://www.linkedin.com/in/vanshika-nagarajan-2bb766228)
 
 ![image](https://github.com/gdscjh/GDSC-Blogs/assets/130212316/a5eef29c-cbf1-4589-a5e5-943bffcf43cf)
 
